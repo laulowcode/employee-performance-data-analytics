@@ -87,11 +87,11 @@ def build_dim_store(stores: pd.DataFrame) -> pd.DataFrame:
 def build_dim_manager(employees: pd.DataFrame) -> pd.DataFrame:
     dim = (
         employees[["manager_id", "manager_name", "manager_status", "department"]]
+        .dropna(subset=["manager_id"])
         .drop_duplicates(subset=["manager_id"])
         .reset_index(drop=True)
     )
     return dim
-
 
 def build_dim_date(monthly_performance: pd.DataFrame) -> pd.DataFrame:
     """Calendar spine at monthly grain derived from the data range."""
