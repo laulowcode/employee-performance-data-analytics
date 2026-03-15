@@ -25,6 +25,8 @@ Power BI is used as the Business Intelligence tool to visualize and explore the 
 **Included Power BI Visualizations:**
 
 - Turnover rates by department
+  ![Turnover rates by department](bi//charts/turnover.png)
+
 - Salary distribution by job level and department
 - Performance trends by month
 - Top managers and team performance
