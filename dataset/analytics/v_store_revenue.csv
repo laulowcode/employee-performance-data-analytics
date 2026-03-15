@@ -1,0 +1,151 @@
+store_id,total_sales_target,total_sales_actual,avg_customer_satisfaction,avg_nps_score,avg_waste_pct,avg_on_time_delivery,overall_achievement_pct,store_name,city,store_type
+STR081,23636340,24332751.82,7.46,40.68,2.88,94.27,102.95,New York Superstore #81,New York,Superstore
+STR143,23636340,24062549.73,7.44,41.79,2.56,94.18,101.8,New York Superstore #143,New York,Superstore
+STR051,23636340,24002858.76,7.62,42.98,2.83,94.11,101.55,Los Angeles Superstore #51,Los Angeles,Superstore
+STR030,23636340,23995380.64,7.41,38.83,2.8,93.87,101.52,Houston Superstore #30,Houston,Superstore
+STR076,23636340,23950578.78,7.41,39.98,2.83,93.86,101.33,New York Superstore #76,New York,Superstore
+STR104,23636340,23873650.17,7.46,39.99,2.84,94.13,101.0,Houston Superstore #104,Houston,Superstore
+STR006,23636340,23682353.21,7.4,37.53,2.73,93.7,100.19,Houston Superstore #6,Houston,Superstore
+STR095,23636340,23387889.56,7.36,37.04,2.69,93.8,98.95,Houston Superstore #95,Houston,Superstore
+STR132,23636340,23323174.75,7.64,41.55,2.72,93.85,98.68,Houston Superstore #132,Houston,Superstore
+STR007,23636340,23181622.5,7.45,36.85,2.87,93.58,98.08,Chicago Superstore #7,Chicago,Superstore
+STR044,18181800,18920120.82,7.53,40.09,2.84,93.83,104.06,San Diego Superstore #44,San Diego,Superstore
+STR017,18181800,18916281.45,7.59,41.15,2.93,93.93,104.04,Louisville Superstore #17,Louisville,Superstore
+STR068,18181800,18880765.6,7.42,36.23,2.85,94.0,103.84,San Antonio Superstore #68,San Antonio,Superstore
+STR071,18181800,18785386.82,7.44,37.99,2.77,94.5,103.32,Louisville Superstore #71,Louisville,Superstore
+STR009,18181800,18617881.48,7.35,34.3,2.78,94.46,102.4,Philadelphia Superstore #9,Philadelphia,Superstore
+STR019,18181800,18577933.12,7.39,37.36,2.82,93.93,102.18,Dallas Superstore #19,Dallas,Superstore
+STR133,18181800,18508141.14,7.58,41.22,2.74,93.64,101.79,Portland Superstore #133,Portland,Superstore
+STR027,18181800,18444780.16,7.62,43.74,2.85,94.0,101.45,Denver Superstore #27,Denver,Superstore
+STR035,18181800,18417534.32,7.52,40.73,2.96,94.11,101.3,Columbus Superstore #35,Columbus,Superstore
+STR089,18181800,18397453.93,7.42,38.33,2.78,94.06,101.19,Memphis Superstore #89,Memphis,Superstore
+STR062,18181800,18392417.96,7.57,42.19,2.75,93.82,101.16,Nashville Superstore #62,Nashville,Superstore
+STR126,18181800,18367335.33,7.67,42.22,2.79,94.33,101.02,Seattle Superstore #126,Seattle,Superstore
+STR059,18181800,18331247.38,7.57,40.98,2.73,94.01,100.82,San Antonio Superstore #59,San Antonio,Superstore
+STR138,18181800,18330158.0,7.53,41.26,2.86,93.9,100.82,Las Vegas Superstore #138,Las Vegas,Superstore
+STR011,18181800,18316798.57,7.58,42.14,2.86,93.85,100.74,Las Vegas Superstore #11,Las Vegas,Superstore
+STR128,18181800,18263974.33,7.41,37.68,2.88,94.06,100.45,Boston Superstore #128,Boston,Superstore
+STR112,18181800,18261421.99,7.54,43.53,2.84,93.57,100.44,San Jose Superstore #112,San Jose,Superstore
+STR022,18181800,18248932.09,7.46,38.27,2.9,94.56,100.37,Dallas Superstore #22,Dallas,Superstore
+STR091,18181800,18214748.06,7.54,40.34,2.91,93.78,100.18,Las Vegas Superstore #91,Las Vegas,Superstore
+STR094,18181800,18211044.78,7.54,44.08,2.85,93.68,100.16,Philadelphia Superstore #94,Philadelphia,Superstore
+STR082,18181800,18193121.87,7.55,39.88,2.87,94.02,100.06,Jacksonville Superstore #82,Jacksonville,Superstore
+STR041,18181800,18166185.53,7.31,35.09,2.82,94.1,99.91,Charlotte Superstore #41,Charlotte,Superstore
+STR013,18181800,18147192.81,7.52,40.45,2.82,93.86,99.81,San Jose Superstore #13,San Jose,Superstore
+STR029,18181800,18143100.42,7.41,39.0,2.79,94.4,99.79,Philadelphia Superstore #29,Philadelphia,Superstore
+STR085,18181800,18138204.05,7.46,40.9,2.92,94.28,99.76,Denver Superstore #85,Denver,Superstore
+STR096,18181800,18126967.75,7.51,40.82,2.98,94.23,99.7,Memphis Superstore #96,Memphis,Superstore
+STR045,18181800,18111448.05,7.52,40.06,2.9,93.91,99.61,Austin Superstore #45,Austin,Superstore
+STR014,18181800,18067937.74,7.44,41.16,2.87,94.12,99.37,Seattle Superstore #14,Seattle,Superstore
+STR088,18181800,18007405.66,7.51,39.73,2.93,94.4,99.04,Denver Superstore #88,Denver,Superstore
+STR131,18181800,17974385.86,7.56,41.05,2.85,93.88,98.86,Dallas Superstore #131,Dallas,Superstore
+STR003,18181800,17934266.56,7.52,43.45,2.92,94.05,98.64,Portland Superstore #3,Portland,Superstore
+STR086,18181800,17899383.25,7.74,46.97,2.82,93.91,98.45,Baltimore Superstore #86,Baltimore,Superstore
+STR026,18181800,17887668.26,7.67,43.3,3.05,94.25,98.38,Charlotte Superstore #26,Charlotte,Superstore
+STR012,18181800,17877579.99,7.46,39.38,2.82,93.94,98.33,Louisville Superstore #12,Louisville,Superstore
+STR040,18181800,17872136.7,7.48,36.56,2.94,94.09,98.3,Fort Worth Superstore #40,Fort Worth,Superstore
+STR115,18181800,17838872.6,7.54,39.41,2.77,94.22,98.11,Denver Superstore #115,Denver,Superstore
+STR072,18181800,17832430.08,7.6,40.87,3.05,94.15,98.08,Jacksonville Superstore #72,Jacksonville,Superstore
+STR083,18181800,17824089.2,7.38,38.07,2.86,93.35,98.03,Las Vegas Superstore #83,Las Vegas,Superstore
+STR144,18181800,17794866.92,7.39,38.2,2.89,94.0,97.87,Seattle Superstore #144,Seattle,Superstore
+STR111,18181800,17646749.69,7.57,41.6,2.88,93.69,97.06,Louisville Superstore #111,Louisville,Superstore
+STR004,18181800,17345524.91,7.6,42.07,2.83,93.76,95.4,Nashville Superstore #4,Nashville,Superstore
+STR093,13131300,13770522.6,7.53,39.59,2.88,93.77,104.87,Los Angeles Regular #93,Los Angeles,Regular
+STR105,13131300,13569055.1,7.25,36.04,2.79,93.7,103.33,Chicago Regular #105,Chicago,Regular
+STR055,13131300,13482534.3,7.57,41.14,2.75,93.73,102.67,Chicago Regular #55,Chicago,Regular
+STR122,13131300,13394911.46,7.64,44.11,2.87,94.27,102.01,New York Regular #122,New York,Regular
+STR103,13131300,13262276.69,7.57,44.45,2.78,94.18,101.0,Chicago Regular #103,Chicago,Regular
+STR033,13131300,13245935.21,7.42,36.39,2.74,94.07,100.87,Houston Regular #33,Houston,Regular
+STR148,13131300,13229902.4,7.58,41.04,2.91,93.6,100.75,Chicago Regular #148,Chicago,Regular
+STR130,13131300,13216319.38,7.33,38.12,2.79,94.18,100.65,Chicago Regular #130,Chicago,Regular
+STR119,13131300,13188597.7,7.56,40.24,2.85,94.23,100.44,Chicago Regular #119,Chicago,Regular
+STR141,13131300,13137597.54,7.47,39.79,2.79,94.19,100.05,Los Angeles Regular #141,Los Angeles,Regular
+STR008,13131300,13113292.18,7.54,41.02,2.78,93.78,99.86,Los Angeles Regular #8,Los Angeles,Regular
+STR142,13131300,13039998.1,7.39,38.1,2.74,93.84,99.3,New York Regular #142,New York,Regular
+STR032,13131300,12999131.05,7.61,43.08,2.72,93.66,98.99,Los Angeles Regular #32,Los Angeles,Regular
+STR057,13131300,12974948.5,7.48,37.85,2.87,93.73,98.81,Chicago Regular #57,Chicago,Regular
+STR136,13131300,12969681.51,7.32,35.61,2.98,94.09,98.77,New York Regular #136,New York,Regular
+STR092,13131300,12955308.69,7.54,42.04,2.82,93.8,98.66,New York Regular #92,New York,Regular
+STR124,13131300,12896791.89,7.57,40.16,2.9,93.93,98.21,Houston Regular #124,Houston,Regular
+STR023,13131300,12846569.09,7.56,41.86,2.76,94.25,97.83,Los Angeles Regular #23,Los Angeles,Regular
+STR047,13131300,12715474.2,7.5,42.17,2.85,93.7,96.83,New York Regular #47,New York,Regular
+STR145,13131300,12665110.46,7.37,36.61,2.77,94.03,96.45,Chicago Regular #145,Chicago,Regular
+STR060,10101000,10517547.28,7.52,40.73,3.0,94.52,104.12,Charlotte Regular #60,Charlotte,Regular
+STR005,10101000,10461010.28,7.55,41.9,2.87,94.62,103.56,Austin Regular #5,Austin,Regular
+STR135,10101000,10425926.11,7.61,41.78,2.94,94.05,103.22,San Antonio Regular #135,San Antonio,Regular
+STR031,10101000,10397878.68,7.61,44.21,2.73,93.84,102.94,Boston Regular #31,Boston,Regular
+STR043,10101000,10364229.79,7.46,39.61,2.74,93.83,102.61,Memphis Regular #43,Memphis,Regular
+STR120,10101000,10350371.87,7.43,40.14,2.87,94.65,102.47,Seattle Regular #120,Seattle,Regular
+STR018,10101000,10307920.47,7.64,39.76,2.81,94.23,102.05,Nashville Regular #18,Nashville,Regular
+STR134,10101000,10304774.82,7.45,41.0,2.74,93.87,102.02,Memphis Regular #134,Memphis,Regular
+STR087,10101000,10296757.53,7.4,39.83,2.79,94.08,101.94,San Antonio Regular #87,San Antonio,Regular
+STR129,10101000,10296576.78,7.67,45.65,2.86,93.78,101.94,Boston Regular #129,Boston,Regular
+STR028,10101000,10295597.57,7.51,39.13,2.78,93.8,101.93,San Diego Regular #28,San Diego,Regular
+STR080,10101000,10276415.02,7.43,37.0,2.81,94.92,101.74,Dallas Regular #80,Dallas,Regular
+STR034,10101000,10273456.37,7.55,41.12,2.86,93.98,101.71,Seattle Regular #34,Seattle,Regular
+STR039,10101000,10251210.3,7.61,42.56,2.78,93.75,101.49,Memphis Regular #39,Memphis,Regular
+STR078,10101000,10246309.51,7.31,33.32,2.8,93.96,101.44,Dallas Regular #78,Dallas,Regular
+STR010,10101000,10242221.3,7.48,41.36,2.86,93.67,101.4,Portland Regular #10,Portland,Regular
+STR121,10101000,10233910.32,7.48,39.39,2.98,94.3,101.32,Memphis Regular #121,Memphis,Regular
+STR125,10101000,10216712.57,7.49,39.6,2.79,93.74,101.15,Baltimore Regular #125,Baltimore,Regular
+STR108,10101000,10202280.89,7.56,41.02,2.9,94.19,101.0,San Diego Regular #108,San Diego,Regular
+STR015,10101000,10175205.33,7.44,39.57,2.62,94.17,100.73,Charlotte Regular #15,Charlotte,Regular
+STR069,10101000,10163454.71,7.45,40.12,2.97,93.61,100.62,Las Vegas Regular #69,Las Vegas,Regular
+STR050,10101000,10155863.66,7.47,37.42,2.87,94.32,100.54,Dallas Regular #50,Dallas,Regular
+STR074,10101000,10150712.15,7.52,38.77,2.79,94.34,100.49,Detroit Regular #74,Detroit,Regular
+STR037,10101000,10144989.31,7.64,42.85,2.99,94.46,100.44,Portland Regular #37,Portland,Regular
+STR079,10101000,10133909.72,7.56,39.82,2.82,93.86,100.33,Philadelphia Regular #79,Philadelphia,Regular
+STR077,10101000,10130857.09,7.61,43.98,2.82,93.7,100.3,Louisville Regular #77,Louisville,Regular
+STR106,10101000,10123780.15,7.52,40.95,2.87,93.64,100.23,Baltimore Regular #106,Baltimore,Regular
+STR038,10101000,10115758.81,7.48,39.55,2.76,93.95,100.15,Boston Regular #38,Boston,Regular
+STR066,10101000,10104667.55,7.44,39.98,2.82,93.72,100.04,Charlotte Regular #66,Charlotte,Regular
+STR063,10101000,10097166.85,7.58,39.92,2.85,93.58,99.96,San Antonio Regular #63,San Antonio,Regular
+STR101,10101000,10096870.12,7.45,39.74,2.85,94.02,99.96,Dallas Regular #101,Dallas,Regular
+STR084,10101000,10088899.94,7.52,39.51,2.65,94.0,99.88,Memphis Regular #84,Memphis,Regular
+STR024,10101000,10086469.27,7.55,39.99,2.78,94.02,99.86,Charlotte Regular #24,Charlotte,Regular
+STR073,10101000,10073976.36,7.54,41.68,2.8,93.78,99.73,Austin Regular #73,Austin,Regular
+STR025,10101000,10067398.93,7.45,38.59,2.86,94.31,99.67,Jacksonville Regular #25,Jacksonville,Regular
+STR002,10101000,10061842.35,7.56,43.09,2.93,93.56,99.61,Charlotte Regular #2,Charlotte,Regular
+STR061,10101000,10056537.59,7.43,37.31,2.86,94.15,99.56,San Jose Regular #61,San Jose,Regular
+STR097,10101000,10047113.96,7.68,45.86,2.93,94.08,99.47,Philadelphia Regular #97,Philadelphia,Regular
+STR118,10101000,10016139.32,7.42,40.16,2.9,94.12,99.16,Detroit Regular #118,Detroit,Regular
+STR053,10101000,10014483.63,7.7,43.96,2.86,93.96,99.14,Memphis Regular #53,Memphis,Regular
+STR016,10101000,9983338.48,7.37,38.11,2.82,94.35,98.84,Jacksonville Regular #16,Jacksonville,Regular
+STR100,10101000,9979731.41,7.52,41.93,2.79,94.07,98.8,Seattle Regular #100,Seattle,Regular
+STR065,10101000,9971396.99,7.57,40.57,2.89,93.67,98.72,Detroit Regular #65,Detroit,Regular
+STR140,10101000,9964191.22,7.44,39.28,2.81,94.04,98.65,Nashville Regular #140,Nashville,Regular
+STR058,10101000,9950776.47,7.47,39.73,2.87,94.08,98.51,Detroit Regular #58,Detroit,Regular
+STR070,10101000,9937855.74,7.59,42.07,2.9,93.61,98.38,San Jose Regular #70,San Jose,Regular
+STR102,10101000,9936527.22,7.26,37.32,2.68,93.72,98.37,Philadelphia Regular #102,Philadelphia,Regular
+STR099,10101000,9907709.51,7.52,40.98,2.71,94.3,98.09,Las Vegas Regular #99,Las Vegas,Regular
+STR113,10101000,9898951.91,7.33,38.19,2.96,94.01,98.0,Seattle Regular #113,Seattle,Regular
+STR109,10101000,9898684.23,7.4,35.89,2.98,93.58,98.0,Boston Regular #109,Boston,Regular
+STR021,10101000,9884568.25,7.6,41.64,2.73,93.47,97.86,Columbus Regular #21,Columbus,Regular
+STR110,10101000,9884040.1,7.38,37.3,2.85,93.97,97.85,Austin Regular #110,Austin,Regular
+STR001,10101000,9849059.18,7.64,43.23,2.8,93.78,97.51,San Antonio Regular #1,San Antonio,Regular
+STR048,10101000,9841754.84,7.44,36.98,2.81,94.17,97.43,San Jose Regular #48,San Jose,Regular
+STR054,10101000,9836191.09,7.51,41.69,2.91,93.38,97.38,Jacksonville Regular #54,Jacksonville,Regular
+STR114,10101000,9815739.36,7.5,39.33,2.91,93.55,97.18,Louisville Regular #114,Louisville,Regular
+STR150,10101000,9796831.98,7.49,35.51,2.86,93.72,96.99,Denver Regular #150,Denver,Regular
+STR052,10101000,9741330.75,7.46,35.75,2.86,93.58,96.44,Detroit Regular #52,Detroit,Regular
+STR137,10101000,9736063.0,7.53,40.99,2.84,94.29,96.39,Nashville Regular #137,Nashville,Regular
+STR046,10101000,9695685.97,7.52,39.17,2.87,93.81,95.99,San Diego Regular #46,San Diego,Regular
+STR127,7878780,7970674.4,7.47,41.6,2.92,93.92,101.17,Chicago Express #127,Chicago,Express
+STR020,7878780,7961665.22,7.49,38.5,2.88,94.6,101.05,Houston Express #20,Houston,Express
+STR064,7878780,7924045.82,7.49,41.01,2.95,94.1,100.57,Houston Express #64,Houston,Express
+STR056,7878780,7905638.23,7.39,38.44,2.63,93.49,100.34,Phoenix Express #56,Phoenix,Express
+STR149,7878780,7812637.39,7.59,39.79,2.77,93.37,99.16,Phoenix Express #149,Phoenix,Express
+STR067,7878780,7786445.07,7.56,40.71,2.7,94.02,98.83,Houston Express #67,Houston,Express
+STR117,7878780,7719573.58,7.34,38.37,2.8,94.22,97.98,Phoenix Express #117,Phoenix,Express
+STR116,6060600,6187179.9,7.43,39.93,2.99,94.09,102.09,Seattle Express #116,Seattle,Express
+STR036,6060600,6156738.41,7.42,39.74,2.88,93.92,101.59,Louisville Express #36,Louisville,Express
+STR123,6060600,6081293.44,7.65,42.91,2.93,94.27,100.34,Austin Express #123,Austin,Express
+STR146,6060600,6076655.41,7.66,45.01,2.75,94.08,100.26,Denver Express #146,Denver,Express
+STR090,6060600,6068060.23,7.43,37.2,2.9,93.69,100.12,Denver Express #90,Denver,Express
+STR042,6060600,6055793.91,7.4,38.48,2.8,94.14,99.92,Louisville Express #42,Louisville,Express
+STR107,6060600,6033042.11,7.35,38.17,2.76,94.53,99.55,Baltimore Express #107,Baltimore,Express
+STR075,6060600,5920582.05,7.51,40.84,2.81,94.31,97.69,San Antonio Express #75,San Antonio,Express
+STR098,6060600,5920436.22,7.63,39.91,2.86,93.81,97.69,Baltimore Express #98,Baltimore,Express
+STR049,6060600,5912423.84,7.4,39.48,2.79,94.02,97.56,Dallas Express #49,Dallas,Express
+STR147,6060600,5887634.37,7.53,40.82,2.81,93.68,97.15,Columbus Express #147,Columbus,Express
+STR139,6060600,5868107.48,7.54,40.91,2.69,93.75,96.82,Philadelphia Express #139,Philadelphia,Express

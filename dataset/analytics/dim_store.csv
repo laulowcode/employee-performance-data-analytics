@@ -1,0 +1,151 @@
+store_id,store_name,city,city_latitude,city_longitude,store_type,opening_date
+STR001,San Antonio Regular #1,San Antonio,29.4241,-98.4936,Regular,2021-05-20
+STR002,Charlotte Regular #2,Charlotte,35.2271,-80.8431,Regular,2015-11-09
+STR003,Portland Superstore #3,Portland,45.5152,-122.6784,Superstore,2018-02-08
+STR004,Nashville Superstore #4,Nashville,36.1627,-86.7816,Superstore,2017-08-21
+STR005,Austin Regular #5,Austin,30.2672,-97.7431,Regular,2022-04-04
+STR006,Houston Superstore #6,Houston,29.7604,-95.3698,Superstore,2021-09-20
+STR007,Chicago Superstore #7,Chicago,41.8781,-87.6298,Superstore,2023-08-29
+STR008,Los Angeles Regular #8,Los Angeles,34.0522,-118.2437,Regular,2016-05-30
+STR009,Philadelphia Superstore #9,Philadelphia,39.9526,-75.1652,Superstore,2019-06-05
+STR010,Portland Regular #10,Portland,45.5152,-122.6784,Regular,2015-11-24
+STR011,Las Vegas Superstore #11,Las Vegas,36.1699,-115.1398,Superstore,2017-08-06
+STR012,Louisville Superstore #12,Louisville,38.2527,-85.7585,Superstore,2020-03-06
+STR013,San Jose Superstore #13,San Jose,37.3382,-121.8863,Superstore,2015-11-14
+STR014,Seattle Superstore #14,Seattle,47.6062,-122.3321,Superstore,2017-06-02
+STR015,Charlotte Regular #15,Charlotte,35.2271,-80.8431,Regular,2021-06-24
+STR016,Jacksonville Regular #16,Jacksonville,30.3322,-81.6557,Regular,2020-07-14
+STR017,Louisville Superstore #17,Louisville,38.2527,-85.7585,Superstore,2017-08-12
+STR018,Nashville Regular #18,Nashville,36.1627,-86.7816,Regular,2020-12-06
+STR019,Dallas Superstore #19,Dallas,32.7767,-96.797,Superstore,2022-11-30
+STR020,Houston Express #20,Houston,29.7604,-95.3698,Express,2015-09-09
+STR021,Columbus Regular #21,Columbus,39.9612,-82.9988,Regular,2022-11-18
+STR022,Dallas Superstore #22,Dallas,32.7767,-96.797,Superstore,2021-11-29
+STR023,Los Angeles Regular #23,Los Angeles,34.0522,-118.2437,Regular,2018-09-10
+STR024,Charlotte Regular #24,Charlotte,35.2271,-80.8431,Regular,2017-01-11
+STR025,Jacksonville Regular #25,Jacksonville,30.3322,-81.6557,Regular,2024-03-30
+STR026,Charlotte Superstore #26,Charlotte,35.2271,-80.8431,Superstore,2018-08-29
+STR027,Denver Superstore #27,Denver,39.7392,-104.9903,Superstore,2016-06-18
+STR028,San Diego Regular #28,San Diego,32.7157,-117.1611,Regular,2016-07-01
+STR029,Philadelphia Superstore #29,Philadelphia,39.9526,-75.1652,Superstore,2023-04-04
+STR030,Houston Superstore #30,Houston,29.7604,-95.3698,Superstore,2021-01-23
+STR031,Boston Regular #31,Boston,42.3601,-71.0589,Regular,2022-11-23
+STR032,Los Angeles Regular #32,Los Angeles,34.0522,-118.2437,Regular,2022-03-13
+STR033,Houston Regular #33,Houston,29.7604,-95.3698,Regular,2020-06-15
+STR034,Seattle Regular #34,Seattle,47.6062,-122.3321,Regular,2024-05-21
+STR035,Columbus Superstore #35,Columbus,39.9612,-82.9988,Superstore,2019-01-14
+STR036,Louisville Express #36,Louisville,38.2527,-85.7585,Express,2020-08-06
+STR037,Portland Regular #37,Portland,45.5152,-122.6784,Regular,2023-02-04
+STR038,Boston Regular #38,Boston,42.3601,-71.0589,Regular,2021-03-13
+STR039,Memphis Regular #39,Memphis,35.1495,-90.049,Regular,2023-05-21
+STR040,Fort Worth Superstore #40,Fort Worth,32.7555,-97.3308,Superstore,2020-10-28
+STR041,Charlotte Superstore #41,Charlotte,35.2271,-80.8431,Superstore,2021-12-20
+STR042,Louisville Express #42,Louisville,38.2527,-85.7585,Express,2016-01-16
+STR043,Memphis Regular #43,Memphis,35.1495,-90.049,Regular,2017-09-06
+STR044,San Diego Superstore #44,San Diego,32.7157,-117.1611,Superstore,2018-03-27
+STR045,Austin Superstore #45,Austin,30.2672,-97.7431,Superstore,2016-05-07
+STR046,San Diego Regular #46,San Diego,32.7157,-117.1611,Regular,2017-09-22
+STR047,New York Regular #47,New York,40.7128,-74.006,Regular,2016-07-15
+STR048,San Jose Regular #48,San Jose,37.3382,-121.8863,Regular,2018-02-17
+STR049,Dallas Express #49,Dallas,32.7767,-96.797,Express,2021-05-08
+STR050,Dallas Regular #50,Dallas,32.7767,-96.797,Regular,2018-11-30
+STR051,Los Angeles Superstore #51,Los Angeles,34.0522,-118.2437,Superstore,2018-12-17
+STR052,Detroit Regular #52,Detroit,42.3314,-83.0458,Regular,2017-07-07
+STR053,Memphis Regular #53,Memphis,35.1495,-90.049,Regular,2018-01-12
+STR054,Jacksonville Regular #54,Jacksonville,30.3322,-81.6557,Regular,2024-01-22
+STR055,Chicago Regular #55,Chicago,41.8781,-87.6298,Regular,2021-06-18
+STR056,Phoenix Express #56,Phoenix,33.4484,-112.074,Express,2021-02-10
+STR057,Chicago Regular #57,Chicago,41.8781,-87.6298,Regular,2017-03-03
+STR058,Detroit Regular #58,Detroit,42.3314,-83.0458,Regular,2022-03-11
+STR059,San Antonio Superstore #59,San Antonio,29.4241,-98.4936,Superstore,2017-02-06
+STR060,Charlotte Regular #60,Charlotte,35.2271,-80.8431,Regular,2019-01-17
+STR061,San Jose Regular #61,San Jose,37.3382,-121.8863,Regular,2024-07-14
+STR062,Nashville Superstore #62,Nashville,36.1627,-86.7816,Superstore,2021-05-22
+STR063,San Antonio Regular #63,San Antonio,29.4241,-98.4936,Regular,2020-08-22
+STR064,Houston Express #64,Houston,29.7604,-95.3698,Express,2021-10-16
+STR065,Detroit Regular #65,Detroit,42.3314,-83.0458,Regular,2023-03-20
+STR066,Charlotte Regular #66,Charlotte,35.2271,-80.8431,Regular,2022-08-12
+STR067,Houston Express #67,Houston,29.7604,-95.3698,Express,2017-09-09
+STR068,San Antonio Superstore #68,San Antonio,29.4241,-98.4936,Superstore,2015-12-02
+STR069,Las Vegas Regular #69,Las Vegas,36.1699,-115.1398,Regular,2018-06-20
+STR070,San Jose Regular #70,San Jose,37.3382,-121.8863,Regular,2018-01-15
+STR071,Louisville Superstore #71,Louisville,38.2527,-85.7585,Superstore,2017-07-12
+STR072,Jacksonville Superstore #72,Jacksonville,30.3322,-81.6557,Superstore,2024-02-12
+STR073,Austin Regular #73,Austin,30.2672,-97.7431,Regular,2023-07-08
+STR074,Detroit Regular #74,Detroit,42.3314,-83.0458,Regular,2018-06-18
+STR075,San Antonio Express #75,San Antonio,29.4241,-98.4936,Express,2021-07-12
+STR076,New York Superstore #76,New York,40.7128,-74.006,Superstore,2019-03-11
+STR077,Louisville Regular #77,Louisville,38.2527,-85.7585,Regular,2023-11-11
+STR078,Dallas Regular #78,Dallas,32.7767,-96.797,Regular,2019-10-05
+STR079,Philadelphia Regular #79,Philadelphia,39.9526,-75.1652,Regular,2018-01-05
+STR080,Dallas Regular #80,Dallas,32.7767,-96.797,Regular,2017-11-06
+STR081,New York Superstore #81,New York,40.7128,-74.006,Superstore,2020-09-06
+STR082,Jacksonville Superstore #82,Jacksonville,30.3322,-81.6557,Superstore,2017-12-29
+STR083,Las Vegas Superstore #83,Las Vegas,36.1699,-115.1398,Superstore,2020-11-21
+STR084,Memphis Regular #84,Memphis,35.1495,-90.049,Regular,2023-09-17
+STR085,Denver Superstore #85,Denver,39.7392,-104.9903,Superstore,2019-03-23
+STR086,Baltimore Superstore #86,Baltimore,39.2904,-76.6122,Superstore,2017-08-08
+STR087,San Antonio Regular #87,San Antonio,29.4241,-98.4936,Regular,2024-08-09
+STR088,Denver Superstore #88,Denver,39.7392,-104.9903,Superstore,2020-03-19
+STR089,Memphis Superstore #89,Memphis,35.1495,-90.049,Superstore,2016-06-12
+STR090,Denver Express #90,Denver,39.7392,-104.9903,Express,2016-01-20
+STR091,Las Vegas Superstore #91,Las Vegas,36.1699,-115.1398,Superstore,2016-08-13
+STR092,New York Regular #92,New York,40.7128,-74.006,Regular,2021-04-11
+STR093,Los Angeles Regular #93,Los Angeles,34.0522,-118.2437,Regular,2022-10-04
+STR094,Philadelphia Superstore #94,Philadelphia,39.9526,-75.1652,Superstore,2019-06-06
+STR095,Houston Superstore #95,Houston,29.7604,-95.3698,Superstore,2016-03-14
+STR096,Memphis Superstore #96,Memphis,35.1495,-90.049,Superstore,2019-01-24
+STR097,Philadelphia Regular #97,Philadelphia,39.9526,-75.1652,Regular,2024-08-05
+STR098,Baltimore Express #98,Baltimore,39.2904,-76.6122,Express,2020-05-23
+STR099,Las Vegas Regular #99,Las Vegas,36.1699,-115.1398,Regular,2024-05-14
+STR100,Seattle Regular #100,Seattle,47.6062,-122.3321,Regular,2023-05-18
+STR101,Dallas Regular #101,Dallas,32.7767,-96.797,Regular,2015-09-25
+STR102,Philadelphia Regular #102,Philadelphia,39.9526,-75.1652,Regular,2022-02-12
+STR103,Chicago Regular #103,Chicago,41.8781,-87.6298,Regular,2021-10-06
+STR104,Houston Superstore #104,Houston,29.7604,-95.3698,Superstore,2020-06-18
+STR105,Chicago Regular #105,Chicago,41.8781,-87.6298,Regular,2018-01-12
+STR106,Baltimore Regular #106,Baltimore,39.2904,-76.6122,Regular,2021-05-25
+STR107,Baltimore Express #107,Baltimore,39.2904,-76.6122,Express,2016-08-19
+STR108,San Diego Regular #108,San Diego,32.7157,-117.1611,Regular,2019-07-18
+STR109,Boston Regular #109,Boston,42.3601,-71.0589,Regular,2019-09-18
+STR110,Austin Regular #110,Austin,30.2672,-97.7431,Regular,2024-03-19
+STR111,Louisville Superstore #111,Louisville,38.2527,-85.7585,Superstore,2023-07-06
+STR112,San Jose Superstore #112,San Jose,37.3382,-121.8863,Superstore,2017-12-31
+STR113,Seattle Regular #113,Seattle,47.6062,-122.3321,Regular,2020-02-19
+STR114,Louisville Regular #114,Louisville,38.2527,-85.7585,Regular,2017-03-28
+STR115,Denver Superstore #115,Denver,39.7392,-104.9903,Superstore,2023-11-04
+STR116,Seattle Express #116,Seattle,47.6062,-122.3321,Express,2023-06-19
+STR117,Phoenix Express #117,Phoenix,33.4484,-112.074,Express,2018-04-25
+STR118,Detroit Regular #118,Detroit,42.3314,-83.0458,Regular,2021-05-19
+STR119,Chicago Regular #119,Chicago,41.8781,-87.6298,Regular,2021-02-09
+STR120,Seattle Regular #120,Seattle,47.6062,-122.3321,Regular,2017-01-02
+STR121,Memphis Regular #121,Memphis,35.1495,-90.049,Regular,2022-06-29
+STR122,New York Regular #122,New York,40.7128,-74.006,Regular,2020-06-25
+STR123,Austin Express #123,Austin,30.2672,-97.7431,Express,2022-08-21
+STR124,Houston Regular #124,Houston,29.7604,-95.3698,Regular,2020-05-27
+STR125,Baltimore Regular #125,Baltimore,39.2904,-76.6122,Regular,2015-08-20
+STR126,Seattle Superstore #126,Seattle,47.6062,-122.3321,Superstore,2018-07-19
+STR127,Chicago Express #127,Chicago,41.8781,-87.6298,Express,2015-10-22
+STR128,Boston Superstore #128,Boston,42.3601,-71.0589,Superstore,2023-12-28
+STR129,Boston Regular #129,Boston,42.3601,-71.0589,Regular,2023-07-16
+STR130,Chicago Regular #130,Chicago,41.8781,-87.6298,Regular,2023-02-11
+STR131,Dallas Superstore #131,Dallas,32.7767,-96.797,Superstore,2018-05-25
+STR132,Houston Superstore #132,Houston,29.7604,-95.3698,Superstore,2016-02-25
+STR133,Portland Superstore #133,Portland,45.5152,-122.6784,Superstore,2023-07-14
+STR134,Memphis Regular #134,Memphis,35.1495,-90.049,Regular,2024-02-25
+STR135,San Antonio Regular #135,San Antonio,29.4241,-98.4936,Regular,2016-05-26
+STR136,New York Regular #136,New York,40.7128,-74.006,Regular,2020-01-02
+STR137,Nashville Regular #137,Nashville,36.1627,-86.7816,Regular,2016-04-02
+STR138,Las Vegas Superstore #138,Las Vegas,36.1699,-115.1398,Superstore,2022-06-23
+STR139,Philadelphia Express #139,Philadelphia,39.9526,-75.1652,Express,2022-07-10
+STR140,Nashville Regular #140,Nashville,36.1627,-86.7816,Regular,2016-10-14
+STR141,Los Angeles Regular #141,Los Angeles,34.0522,-118.2437,Regular,2019-11-28
+STR142,New York Regular #142,New York,40.7128,-74.006,Regular,2020-07-30
+STR143,New York Superstore #143,New York,40.7128,-74.006,Superstore,2018-01-06
+STR144,Seattle Superstore #144,Seattle,47.6062,-122.3321,Superstore,2023-06-25
+STR145,Chicago Regular #145,Chicago,41.8781,-87.6298,Regular,2019-06-09
+STR146,Denver Express #146,Denver,39.7392,-104.9903,Express,2017-07-15
+STR147,Columbus Express #147,Columbus,39.9612,-82.9988,Express,2020-06-25
+STR148,Chicago Regular #148,Chicago,41.8781,-87.6298,Regular,2022-03-14
+STR149,Phoenix Express #149,Phoenix,33.4484,-112.074,Express,2017-06-10
+STR150,Denver Regular #150,Denver,39.7392,-104.9903,Regular,2018-06-08

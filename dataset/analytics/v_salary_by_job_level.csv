@@ -1,0 +1,55 @@
+job_level,department,avg_salary,median_salary,employee_count
+Associate,IT,29763.75,30839.6,71
+Associate,Finance,29584.52,30756.6,81
+Associate,Logistics/Warehousing,29343.68,31317.95,496
+Associate,Store Operations,29112.79,31540.91,994
+Associate,HR,29038.25,32220.52,75
+Associate,Fresh Produce,28966.7,30945.46,388
+Associate,Customer Service,28341.98,31143.36,56
+Associate,Meat/Fish & Bakery,28301.66,30126.46,296
+Associate,Marketing,26728.23,28642.92,43
+Entry,IT,24038.2,26159.14,117
+Entry,Logistics/Warehousing,23273.7,24719.99,787
+Entry,Marketing,23235.41,25206.63,83
+Entry,Fresh Produce,23109.26,24953.16,606
+Entry,Store Operations,23090.6,24577.86,1610
+Entry,Finance,23054.74,24872.58,117
+Entry,Meat/Fish & Bakery,22487.27,23903.82,485
+Entry,Customer Service,22424.5,24408.4,72
+Entry,HR,22364.9,24331.88,123
+Executive,Logistics/Warehousing,153451.58,153451.58,1
+Executive,Store Operations,128277.52,128277.52,2
+Executive,Finance,96975.53,96975.53,1
+Executive,Marketing,48749.85,48749.85,1
+Manager,Store Operations,71664.05,75813.66,12
+Manager,Meat/Fish & Bakery,69478.81,69478.81,2
+Manager,Marketing,65923.63,65923.63,1
+Manager,Fresh Produce,65034.66,68769.61,4
+Manager,Logistics/Warehousing,61429.04,64652.08,8
+Manager,Finance,59792.48,59792.48,1
+Manager,HR,58951.29,58951.29,1
+Manager,IT,25638.5,25638.5,1
+Senior_Associate,Finance,40769.73,41982.3,19
+Senior_Associate,IT,38905.65,39083.68,32
+Senior_Associate,Store Operations,36702.78,39243.32,284
+Senior_Associate,HR,36664.22,40626.7,18
+Senior_Associate,Meat/Fish & Bakery,36478.71,38175.72,95
+Senior_Associate,Fresh Produce,36393.77,38618.04,106
+Senior_Associate,Logistics/Warehousing,35360.17,38107.94,160
+Senior_Associate,Marketing,34381.07,36496.82,18
+Senior_Associate,Customer Service,32986.23,36618.28,18
+Senior_Manager,Meat/Fish & Bakery,116453.67,116453.67,1
+Senior_Manager,IT,115178.51,115178.51,1
+Senior_Manager,Fresh Produce,110475.6,110475.6,1
+Senior_Manager,Finance,101294.41,101294.41,1
+Senior_Manager,Store Operations,93149.79,100718.42,7
+Senior_Manager,Logistics/Warehousing,72376.45,83063.74,4
+Supervisor,Marketing,52034.17,51627.28,4
+Supervisor,Logistics/Warehousing,43162.84,46209.26,44
+Supervisor,Store Operations,42933.37,46710.7,91
+Supervisor,Meat/Fish & Bakery,41792.63,43305.4,21
+Supervisor,HR,40477.92,38647.73,8
+Supervisor,Fresh Produce,40439.91,45694.52,20
+Supervisor,IT,38182.58,32425.78,3
+Supervisor,Finance,37211.25,35434.34,5
+Supervisor,Customer Service,35298.02,31775.02,4
