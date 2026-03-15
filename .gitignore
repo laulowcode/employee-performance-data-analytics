@@ -12,3 +12,4 @@
 .env.test.local
 .env.production.local
 .venv/*
+__pycache__/*
